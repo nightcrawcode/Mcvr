@@ -1,4 +1,4 @@
 # Mcvr
 
-this is for my mod pack
-check it out here:
+this is for my modpack
+check it out here: https://modrinth.com/modpack/minecraft-vr-for-cappy-laptops
